@@ -4,7 +4,7 @@
 
 ### What do we have here? A small gym system composed by a RESTful API made with Node Js, serving the gym admin system made with ReactJS and a members mobile application made with React Native.
 
-![Image of Yaktocat](https://github.com/fmontone/gympoint/_githubfiles/gympoint_screenshot.png)
+![Gympoint](https://github.com/fmontone/gympoint/blob/master/_githubfiles/gympoint_screenshot.png)
 
 ## Want to install?
 
