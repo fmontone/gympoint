@@ -1,8 +1,10 @@
 # Gympoint
 
-This is a fullstack application made during the Rocketseat Bootcamp 9.0 / October ~ December 2019 using the Oministack: NodeJs, React Js & React Native.
+## This is a fullstack application made during the Rocketseat Bootcamp 9.0 / October ~ December 2019 using the Oministack: NodeJs, React Js & React Native.
 
-**{{IMAGE GOES HERE}}**
+### What do we have here? A small gym system composed by a RESTful API made with Node Js, serving the gym admin system made with ReactJS and a members mobile application made with React Native.
+
+![Image of Yaktocat](https://github.com/fmontone/gympoint/_githubfiles/gympoint_screenshot.png)
 
 ## Want to install?
 
@@ -16,7 +18,6 @@ This is a fullstack application made during the Rocketseat Bootcamp 9.0 / Octobe
 - **MailTrap** account
 - **Sentry** account
 - Optionals:
-  - **
   - **Reactotron** Front Web and Mobile are connected with Reactotron in **DEV ENV**.
   - **React Native CLI**
   - **Postbird**
@@ -26,7 +27,7 @@ This is a fullstack application made during the Rocketseat Bootcamp 9.0 / Octobe
 
 1. Clone or Download this repo
 2. Open terminal on this repo folder
-3. Make shure you have **.env** file configured with connections to images listed at the **basic requirements** above.
+3. Make shure you have **.env** file configured with database connections of your choice based on **docker-compose.yml** file.
 4. Run Scripts (one after another finishes):
   - Install dependencies:  `yarn install-backend`
   - Load containers: `yarn compose`
@@ -57,7 +58,7 @@ This is a fullstack application made during the Rocketseat Bootcamp 9.0 / Octobe
   - Install dependencies:  `yarn install`
   - To start application:  `react-native run-android`
   - * Due to some technical issues my XCode kept kiddin me with a totally blank black screen several times during the development process. My guess is that with a good machine with MacOs and Xcode you can easely make small adjustments and run `react-native run-ios` 
-3. Now you can login with one of the users emails below, or create one with front-web:
+3. Now you can login with one of the users **emails** below, or create one with front-web:
   - `joao@student.com`
   - `maria@student.com`
   - `patricia@student.com`
